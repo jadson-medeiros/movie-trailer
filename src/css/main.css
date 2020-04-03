@@ -1,0 +1,142 @@
+html {
+    color: #eeeeee;
+    font-size: 62.5%;
+    font-family: "Open Sans", "Arial", sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    padding-top: 80px;
+    background: url('../img/movie-projector.png') no-repeat center center fixed;
+    background-color: rgba(44, 8, 8, 0.514);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+a, a:hover {
+    color: rgba(245, 243, 240, 0.8);
+    text-decoration: none;    
+}
+
+.content {
+    text-align: center;
+    width: 100%;
+    max-width: 720px;
+    margin: auto;
+}
+
+.my-hidden {
+    display: none; 
+}
+
+/* HEADER STYLES */
+
+header {
+    background-color: rgba(202, 217, 221, 0.007);
+    margin-bottom: 18px;
+}
+
+header h1 {
+    font-family: "Raleway", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    color: rgba(247, 244, 239, 0.795);
+    text-shadow: 1px 1px rgb(148, 122, 122);
+    font-size: 30px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+/* TRAILER STYLES */
+
+#trailer .modal-dialog {
+    width: 640px;
+    height: 480px;
+    margin-top: 200px;
+}
+
+#trailer .hanging-close {
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    z-index: 9001;
+}
+
+#trailer-video {
+    width: 100%;
+    height: 100%;
+}
+
+/* MOVIE-TILE STYLES */
+.movies {
+    width: 90%;
+    margin: auto;
+}
+
+.movie-card {
+    float: left;
+    width: 500px;
+    height: 342px;
+    margin: 0.5em;
+}
+
+div.movieinfo {
+    float: left;
+    height: 342px;
+    margin-bottom: 10px;
+}
+
+div.movieinfo:hover {
+    cursor: pointer;
+}
+
+.movie-poster {
+    float: left;
+    height: 320px;
+    margin-right:20px;
+}
+
+.movie-poster img {
+    height: 342px;
+}
+
+.movie-description-header {
+    font-size: 18pt;
+    text-align: center;
+    margin-top: 10px;
+    color: #fff;
+    text-shadow: 1px 1px rgb(148, 122, 122);
+}
+
+.movie-description-content {
+    text-align: left;
+    margin-top: 20px;
+    margin-right: 2%;
+    margin-left: 5%;
+    color: #fff;
+    text-shadow: 1px 1px rgb(148, 122, 122);
+}
+
+/* movie description footer styles */
+.movie-description-footer {
+    position: left;
+    right: 5px;
+    color: rgb(219, 206, 206);
+    text-shadow: 1px 1px rgb(160, 141, 141);
+}
+
+/*Styles for the trailer */
+.scale-media {
+    position: relative;
+    padding-bottom: 56.25%;
+}
+.scale-media iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: none;
+    height: 100%;
+}

@@ -1,0 +1,49 @@
+{
+    "DEADPOOL":{
+        "title":"Deadpool 2",
+        "year":"2018",
+        "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Deadpool_2.jpg/250px-Deadpool_2.jpg",
+        "trailer":"https://www.youtube.com/watch?v=20bpjtCbCz0",
+        "storyline":"Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable."
+    },
+    "VENOM": {
+        "title": "Venom",
+        "year": "2018",
+        "poster":  "https://upload.wikimedia.org/wikipedia/en/0/05/Venom_poster.jpg",
+        "trailer": "https://www.youtube.com/watch?v=u9Mv98Gr5pY",
+        "storyline": "Venom is an upcoming American superhero film based on the Marvel Comics character of the same name, produced by Columbia Pictures in association with Marvel and distributed by Sony Pictures Releasing."
+      },
+
+    "SOCIAL_NETWORK":{
+        "title":"The Social Network",
+        "year":"2010",
+        "poster":"https://upload.wikimedia.org/wikipedia/en/7/7a/Social_network_film_poster.jpg",
+        "trailer":"https://www.youtube.com/watch?v=2RB3edZyeYw",
+        "storyline":"On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication. A mere six years and 500 million friends later, Mark Zuckerberg is the youngest billionaire in history... but for this entrepreneur, success leads to both personal and legal complications."
+    },
+
+    "JURASSIC_WORLD":{
+        "title":"Jurassic World: Fallen Kingdom",
+        "year":"2018",
+        "poster":"https://upload.wikimedia.org/wikipedia/en/c/c6/Jurassic_World_Fallen_Kingdom.png",
+        "trailer":"https://www.youtube.com/watch?v=1FJD7jZqZEk",
+        "storyline":"Three years after the Jurassic World theme park was closed down, Owen and Claire return to Isla Nublar to save the dinosaurs when they learn that a once dormant volcano on the island is active and is threatening to extinguish all life there. Along the way, Owen sets out to find Blue, his lead raptor, and discovers a conspiracy that could disrupt the natural order of the entire planet. Life has found a way, again."
+    },
+
+    "INFINITY_WAR":{
+        "title": "Infity War",
+        "year":"2018",
+        "poster":"http://t2.gstatic.com/images?q=tbn:ANd9GcS4neC_Y4U1G6u2QlEFqbCizheGBUnZg1w874qWbIcVlv9tPuSu",
+        "trailer":"https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+        "storyline":"Story starts with destruction of Asguard and death of Heimdall and then Loki as Thanos gets the Power and Space Stone."
+    },
+
+    "SPIDER_MAN":{
+        "title":"Spider-Man: Homecoming",
+        "year":"2017",
+        "poster":"https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
+        "trailer":"https://www.youtube.com/watch?v=U0D3AOldjMU",
+        "storyline":"After taking the photo of the Avengers, it is time to return to the top of the page to return home and to his life, no longer so normal. Struggling daily against petty crimes on the plants, he may have found a mission of his life when the terrible villain manifested himself by frightening the city."
+    }
+    
+}
